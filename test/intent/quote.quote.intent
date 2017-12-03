@@ -1,0 +1,7 @@
+{
+  "utterance": "Quote of the day",
+  "intent_type": "QuoteIntent",
+  "intent": {
+    "QuoteKeyword": "quote"
+  }
+}
